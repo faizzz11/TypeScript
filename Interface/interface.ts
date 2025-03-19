@@ -16,15 +16,15 @@ interface Admin extends User {
     role: "admin" | "ta" | "learner"
 }
 
-const hitesh: Admin = { dbId: 22, email: "h@h.com", userId: 2211,
+const faizzz: Admin = { dbId: 22, email: "f@f.com", userId: 2211,
 role: "admin",
 githubToken: "github",
 startTrail: () => {
     return "trail started"
 },
-getCoupon: (name: "hitesh10", off: 10) => {
-    return 10
+getCoupon: (name: "faizzz69", off: 69) => {
+    return 69
 }
 }
-hitesh.email = "h@hc.com"
-// hitesh.dbId = 33
+faizzz.email = "f@fm.com"
+// faizzz.dbId = 33

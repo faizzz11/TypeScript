@@ -1,12 +1,12 @@
-var hitesh = { dbId: 22, email: "h@h.com", userId: 2211,
+var faizzz = { dbId: 22, email: "f@f.com", userId: 2211,
     role: "admin",
     githubToken: "github",
     startTrail: function () {
         return "trail started";
     },
     getCoupon: function (name, off) {
-        return 10;
+        return 69;
     }
 };
-hitesh.email = "h@hc.com";
-// hitesh.dbId = 33
+faizzz.email = "f@fm.com";
+// faizzz.dbId = 33
